@@ -1,4 +1,4 @@
 # React-Native-PasswordHide
 Authentication Screen Password Visibility
 
-[![image](https://i.hizliresim.com/P1kzn8.png)](https://hizliresim.com/P1kzn8)
+![1JKIh.gif](https://i.imgyukle.com/2019/01/04/1JKIh.gif)
